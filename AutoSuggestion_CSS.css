@@ -74,6 +74,7 @@ h2 {
     border: 0px;
     padding-top: 5px;
     font-size: 20px;
+    display: none;
 }
 
 hiddenScroll {
